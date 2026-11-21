@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "the-joke-about-the-demo-20261121-0551",
+  "phase": "dev",
+  "bundle_sha256": "08986ffed278bc611b04a27a72a356f19bd4f3de0e323743701484802509641f",
+  "dataset_sha256": null,
+  "harness_version": "harness@8afa999d0c0e8d3a6175cfde88c980f1240fb95d387a4fea4fd89a982038392e node v26.13.1",
+  "scorer_version": "scorer@9a185fe35e2394a02ead8ca10675e3289e1fc7f15770eeac7d7f6685c881231e program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "6a262a9d0245fc1bb135c62775a6abd481aace3029ff2857a45310eb172ac899",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "e874677e8c28d611236fdbd105ecd0a47b36aefd987487cc18903224c902e1d8",
+      "size": 74666
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "862e34722681d6af23103a91e61a35b2580ed8b7a7441ea6033c122894826935",
+      "size": 15780739
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "73cfbad044f58a9c3ca794032c45c7e6689e49a886d32b0b64087b9046757df2",
+      "size": 30574
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "48a106181a0bb8a6c37bf5c6f136a288b2249a820adddd95e2b678df6ea5d9cd",
+      "size": 19999
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "c9007f7f4bf1ef4857053e2c0f6af34a0e6ca894ed198226e2baf892a7fbf613",
+      "size": 19999
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "c8d3812a724e68fb9c81238b7ebb840543deeeb4a3182832f39540dc0c701083",
+      "size": 2858493
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "c3f1d58ea1f33b79f505e62bfe53810473456e019d79631f9cada53fed7ddac0",
+      "size": 85
+    }
+  ]
+}
